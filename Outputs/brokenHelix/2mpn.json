@@ -434,7 +434,8 @@
         "ATOM    446  CA  GLY A 137      -3.342   6.130   7.691  1.00 24.35           C  \n",
         "ATOM    447  C   GLY A 137      -4.091   6.751   8.854  1.00  1.20           C  \n",
         "ATOM    448  O   GLY A 137      -4.422   7.936   8.827  1.00 51.50           O  \n"
-    ]
+    ],
+    "membraneBoundHelixLength": 22
 },{
     "strating_residue_number": " 144",
     "ending_residue_number": " 167",
@@ -844,7 +845,8 @@
         "ATOM    710  CA  PHE A 157      -5.460   5.521 -14.481  1.00 13.11           C  \n",
         "ATOM    728  N   SER A 158      -5.624   3.108 -14.303  1.00 25.31           N  \n",
         "ATOM    729  CA  SER A 158      -5.667   1.736 -14.797  1.00 54.21           C  \n"
-    ]
+    ],
+    "membraneBoundHelixLength": 15
 },{
     "strating_residue_number": " 169",
     "ending_residue_number": " 173",
@@ -943,7 +945,8 @@
         -142.26394133001762,
         -66.49746451075103
     ],
-    "membraneBoundHelixRegions": []
+    "membraneBoundHelixRegions": [],
+    "membraneBoundHelixLength": 0
 },{
     "strating_residue_number": " 111",
     "ending_residue_number": " 137",
@@ -1428,7 +1431,8 @@
         "ATOM    446  CA  GLY A 137      -3.342   6.130   7.691  1.00 24.35           C  \n",
         "ATOM    447  C   GLY A 137      -4.091   6.751   8.854  1.00  1.20           C  \n",
         "ATOM    448  O   GLY A 137      -4.422   7.936   8.827  1.00 51.50           O  \n"
-    ]
+    ],
+    "membraneBoundHelixLength": 22
 },{
     "strating_residue_number": " 144",
     "ending_residue_number": " 167",
@@ -1838,7 +1842,8 @@
         "ATOM    710  CA  PHE A 157      -5.460   5.521 -14.481  1.00 13.11           C  \n",
         "ATOM    728  N   SER A 158      -5.624   3.108 -14.303  1.00 25.31           N  \n",
         "ATOM    729  CA  SER A 158      -5.667   1.736 -14.797  1.00 54.21           C  \n"
-    ]
+    ],
+    "membraneBoundHelixLength": 15
 },{
     "strating_residue_number": " 169",
     "ending_residue_number": " 173",
@@ -1937,5 +1942,6 @@
         -142.26394133001762,
         -66.49746451075103
     ],
-    "membraneBoundHelixRegions": []
+    "membraneBoundHelixRegions": [],
+    "membraneBoundHelixLength": 0
 },{}]
