@@ -1,2 +1,3 @@
 # bioSimulation
-A repo 
+A repo for UGP project 6th sem.
+Membrane proteen 
