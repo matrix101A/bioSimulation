@@ -2,6 +2,7 @@
     "id": 1,
     "starting_residue": 116,
     "ending_residue": 158,
+    "chain_identifier": "A",
     "length": 43,
     "residues": [
         "ATOM    184  N   ILE A 118      -2.160  -3.214 -14.915  1.00 30.41           N  \n",
@@ -417,6 +418,7 @@
     "id": 2,
     "starting_residue": 116,
     "ending_residue": 158,
+    "chain_identifier": "B",
     "length": 43,
     "residues": [
         "ATOM   1148  N   ILE B 118       2.460   3.315 -14.918  1.00 21.21           N  \n",

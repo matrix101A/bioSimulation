@@ -1,0 +1,98 @@
+[{
+    "id": 7,
+    "starting_residue": 121,
+    "ending_residue": 147,
+    "chain_identifier": "A",
+    "length": 27,
+    "broken_residues": [
+        "ATOM    948  N   ARG A 121      -1.141   9.450  15.543  1.00 47.67           N  \n",
+        "ATOM    949  CA  ARG A 121      -1.559   8.068  15.329  1.00 47.01           C  \n",
+        "ATOM    950  C   ARG A 121      -0.859   7.498  14.080  1.00 46.89           C  \n",
+        "ATOM    951  O   ARG A 121      -0.490   8.268  13.185  1.00 43.54           O  \n",
+        "ATOM    959  N   GLU A 122      -0.624   6.176  14.053  1.00 47.14           N  \n",
+        "ATOM    960  CA  GLU A 122       0.147   5.544  12.975  1.00 46.97           C  \n",
+        "ATOM    961  C   GLU A 122      -0.298   6.079  11.623  1.00 49.87           C  \n",
+        "ATOM    962  O   GLU A 122      -1.497   6.090  11.315  1.00 54.13           O  \n",
+        "ATOM    968  N   PHE A 123       0.680   6.555  10.852  1.00 47.21           N  \n",
+        "ATOM    969  CA  PHE A 123       0.507   7.061   9.492  1.00 45.77           C  \n",
+        "ATOM    970  C   PHE A 123      -0.282   8.360   9.423  1.00 46.27           C  \n",
+        "ATOM    971  O   PHE A 123      -0.470   8.919   8.351  1.00 47.26           O  \n",
+        "ATOM    979  N   LEU A 124      -0.755   8.851  10.555  1.00 45.73           N  \n",
+        "ATOM    980  CA  LEU A 124      -1.561  10.062  10.527  1.00 46.48           C  \n",
+        "ATOM    981  C   LEU A 124      -0.993  11.104  11.497  1.00 47.18           C  \n",
+        "ATOM    982  O   LEU A 124      -1.721  11.736  12.267  1.00 54.06           O  \n",
+        "ATOM    987  N   GLU A 125       0.322  11.267  11.437  1.00 44.86           N  \n",
+        "ATOM    988  CA  GLU A 125       1.048  12.162  12.324  1.00 44.38           C  \n",
+        "ATOM    989  C   GLU A 125       1.194  13.556  11.725  1.00 45.55           C  \n",
+        "ATOM    990  O   GLU A 125       1.717  14.460  12.385  1.00 42.66           O  \n",
+        "ATOM    996  N   GLN A 126       0.755  13.720  10.471  1.00 46.21           N  \n",
+        "ATOM    997  CA  GLN A 126       0.918  14.978   9.740  1.00 44.96           C  \n",
+        "ATOM    998  C   GLN A 126       0.247  16.106  10.501  1.00 46.86           C  \n",
+        "ATOM    999  O   GLN A 126      -0.902  15.967  10.964  1.00 47.92           O  \n"
+    ],
+    "flag": 1
+},{
+    "id": 8,
+    "starting_residue": 156,
+    "ending_residue": 178,
+    "chain_identifier": "A",
+    "length": 23,
+    "broken_residues": [
+        "ATOM   1371  N   PHE A 174     -11.752  10.590   7.295  1.00 54.36           N  \n"
+    ],
+    "flag": 1
+},{
+    "id": 9,
+    "starting_residue": 185,
+    "ending_residue": 210,
+    "chain_identifier": "A",
+    "length": 26,
+    "broken_residues": [
+        "ATOM   1599  N   GLY A 199      -9.199  -1.855  -0.174  1.00 52.15           N  \n"
+    ],
+    "flag": 1
+},{
+    "id": 11,
+    "starting_residue": 227,
+    "ending_residue": 248,
+    "chain_identifier": "A",
+    "length": 22,
+    "broken_residues": [
+        "ATOM   1942  N   THR A 243     -12.558  -6.213   6.588  1.00 45.69           N  \n"
+    ],
+    "flag": 1
+},{
+    "id": 12,
+    "starting_residue": 255,
+    "ending_residue": 279,
+    "chain_identifier": "A",
+    "length": 25,
+    "broken_residues": [
+        "ATOM   2145  N   GLU A 267     -10.200 -12.711   0.611  1.00 70.66           N  \n"
+    ],
+    "flag": 1
+},{
+    "id": 13,
+    "starting_residue": 296,
+    "ending_residue": 322,
+    "chain_identifier": "A",
+    "length": 27,
+    "broken_residues": [
+        "ATOM   2480  N   GLY A 310      -1.694 -11.779  -0.566  1.00 54.61           N  \n",
+        "ATOM   2538  N   THR A 317      -4.299 -14.327   9.132  1.00 55.40           N  \n",
+        "ATOM   2539  CA  THR A 317      -5.638 -13.715   9.085  1.00 55.94           C  \n",
+        "ATOM   2540  C   THR A 317      -6.729 -14.401   9.915  1.00 58.96           C  \n",
+        "ATOM   2541  O   THR A 317      -7.712 -13.755  10.306  1.00 57.25           O  \n"
+    ],
+    "flag": 1
+},{
+    "id": 15,
+    "starting_residue": 328,
+    "ending_residue": 352,
+    "chain_identifier": "A",
+    "length": 25,
+    "broken_residues": [
+        "ATOM   2749  N   VAL A 344       4.076  -0.498  -4.670  1.00 50.77           N  \n"
+    ],
+    "flag": 1
+},{}]

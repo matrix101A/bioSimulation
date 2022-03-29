@@ -2,6 +2,7 @@
     "id": 1,
     "starting_residue": 129,
     "ending_residue": 129,
+    "chain_identifier": "D",
     "length": 1,
     "residues": [],
     "mainChain_residues": []
@@ -9,6 +10,7 @@
     "id": 2,
     "starting_residue": 184,
     "ending_residue": 191,
+    "chain_identifier": "D",
     "length": 8,
     "residues": [
         "ATOM   1172  N   GLY D 184      -2.529  -1.146  15.629  1.00 29.14           N  \n",
@@ -77,6 +79,7 @@
     "id": 3,
     "starting_residue": 13,
     "ending_residue": 36,
+    "chain_identifier": "B",
     "length": 24,
     "residues": [
         "ATOM   2251  N   CYS B  15      18.853  -0.934 -15.263  1.00 43.20           N  \n",
@@ -321,6 +324,7 @@
     "id": 4,
     "starting_residue": 106,
     "ending_residue": 106,
+    "chain_identifier": "B",
     "length": 1,
     "residues": [],
     "mainChain_residues": []
@@ -328,6 +332,7 @@
     "id": 5,
     "starting_residue": 108,
     "ending_residue": 108,
+    "chain_identifier": "B",
     "length": 1,
     "residues": [],
     "mainChain_residues": []
@@ -335,6 +340,7 @@
     "id": 6,
     "starting_residue": 226,
     "ending_residue": 226,
+    "chain_identifier": "B",
     "length": 1,
     "residues": [],
     "mainChain_residues": []
@@ -342,6 +348,7 @@
     "id": 7,
     "starting_residue": 229,
     "ending_residue": 253,
+    "chain_identifier": "B",
     "length": 25,
     "residues": [
         "ATOM   3983  N   THR B 231       8.062  10.579  15.657  1.00 21.68           N  \n",
@@ -593,6 +600,7 @@
     "id": 8,
     "starting_residue": 265,
     "ending_residue": 289,
+    "chain_identifier": "B",
     "length": 25,
     "residues": [
         "ATOM   4305  N   LYS B 268      -4.817   4.655 -16.090  1.00 25.49           N  \n",
@@ -842,6 +850,7 @@
     "id": 9,
     "starting_residue": 291,
     "ending_residue": 291,
+    "chain_identifier": "B",
     "length": 1,
     "residues": [],
     "mainChain_residues": []
@@ -849,6 +858,7 @@
     "id": 10,
     "starting_residue": 293,
     "ending_residue": 293,
+    "chain_identifier": "B",
     "length": 1,
     "residues": [],
     "mainChain_residues": []
@@ -856,6 +866,7 @@
     "id": 11,
     "starting_residue": 295,
     "ending_residue": 320,
+    "chain_identifier": "B",
     "length": 26,
     "residues": [
         "ATOM   4527  N   TRP B 295      -9.780  13.397  15.473  1.00 24.41           N  \n",
@@ -1180,6 +1191,7 @@
     "id": 12,
     "starting_residue": 332,
     "ending_residue": 358,
+    "chain_identifier": "B",
     "length": 27,
     "residues": [
         "ATOM   4861  N   GLY B 334     -16.953  -5.188 -15.620  1.00 33.58           N  \n",
@@ -1439,6 +1451,7 @@
     "id": 13,
     "starting_residue": 361,
     "ending_residue": 361,
+    "chain_identifier": "B",
     "length": 1,
     "residues": [],
     "mainChain_residues": []
@@ -1446,6 +1459,7 @@
     "id": 14,
     "starting_residue": 376,
     "ending_residue": 404,
+    "chain_identifier": "B",
     "length": 29,
     "residues": [
         "ATOM   5213  N   ALA B 378     -18.920  -6.726  15.373  1.00 34.84           N  \n",
@@ -1739,6 +1753,7 @@
     "id": 15,
     "starting_residue": 432,
     "ending_residue": 456,
+    "chain_identifier": "B",
     "length": 25,
     "residues": [
         "ATOM   5670  N   PHE B 434       8.594  -8.912 -15.304  1.00 35.23           N  \n",
@@ -1970,6 +1985,7 @@
     "id": 16,
     "starting_residue": 460,
     "ending_residue": 460,
+    "chain_identifier": "B",
     "length": 1,
     "residues": [],
     "mainChain_residues": []
@@ -1977,6 +1993,7 @@
     "id": 17,
     "starting_residue": 462,
     "ending_residue": 462,
+    "chain_identifier": "B",
     "length": 1,
     "residues": [],
     "mainChain_residues": []
@@ -1984,6 +2001,7 @@
     "id": 18,
     "starting_residue": 467,
     "ending_residue": 492,
+    "chain_identifier": "B",
     "length": 26,
     "residues": [
         "ATOM   5943  N   VAL B 469      15.328  -1.591  14.909  1.00 33.80           N  \n",

@@ -1,0 +1,43 @@
+[{
+    "id": 2,
+    "starting_residue": 43,
+    "ending_residue": 70,
+    "chain_identifier": "A",
+    "length": 28,
+    "broken_residues": [
+        "ATOM    395  N   ALA A  59      11.807   3.894   1.665  1.00 57.59           N  \n"
+    ],
+    "flag": 1
+},{
+    "id": 4,
+    "starting_residue": 119,
+    "ending_residue": 143,
+    "chain_identifier": "A",
+    "length": 25,
+    "broken_residues": [
+        "ATOM    981  N   THR A 138      -0.744  11.667   9.793  1.00 68.32           N  \n"
+    ],
+    "flag": 1
+},{
+    "id": 6,
+    "starting_residue": 171,
+    "ending_residue": 202,
+    "chain_identifier": "A",
+    "length": 32,
+    "broken_residues": [
+        "ATOM   1162  N   ASN A 175      -5.327   1.336  16.542  1.00 66.73           N  \n",
+        "ATOM   1220  N   ASN A 181      -6.171   3.670   8.558  1.00 71.62           N  \n",
+        "ATOM   1268  N   LEU A 187      -8.375  -1.445   2.139  1.00 57.22           N  \n"
+    ],
+    "flag": 1
+},{
+    "id": 8,
+    "starting_residue": 264,
+    "ending_residue": 289,
+    "chain_identifier": "A",
+    "length": 26,
+    "broken_residues": [
+        "ATOM   1903  N   ASN A 280       4.873  -5.955  -3.345  1.00 58.25           N  \n"
+    ],
+    "flag": 1
+},{}]

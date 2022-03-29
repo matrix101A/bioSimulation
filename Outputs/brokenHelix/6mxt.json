@@ -1,9 +1,10 @@
 [{
-    "strating_residue_number": "   0",
+    "starting_residue_number": "   0",
     "ending_residue_number": "  11",
     "length": 12,
     "helix_S.No": "  1",
     "helix_code": "AA1",
+    "chain_identifier": "A",
     "helix_residues": [
         "ATOM      1  N   GLY A   0      22.929  12.817  31.054  1.00 71.56           N  \n",
         "ATOM      2  CA  GLY A   0      24.003  11.864  31.271  1.00 70.68           C  \n",
@@ -197,11 +198,12 @@
     "membraneBoundHelixRegions": [],
     "membraneBoundHelixLength": 0
 },{
-    "strating_residue_number": "  37",
+    "starting_residue_number": "  37",
     "ending_residue_number": "  50",
     "length": 14,
     "helix_S.No": "  2",
     "helix_code": "AA2",
+    "chain_identifier": "A",
     "helix_residues": [
         "ATOM    300  N   SER A  37       8.909 -18.610  34.388  1.00 52.95           N  \n",
         "ATOM    301  CA  SER A  37       7.494 -18.416  34.677  1.00 54.77           C  \n",
@@ -409,11 +411,12 @@
     "membraneBoundHelixRegions": [],
     "membraneBoundHelixLength": 0
 },{
-    "strating_residue_number": "  58",
+    "starting_residue_number": "  58",
     "ending_residue_number": "  79",
     "length": 22,
     "helix_S.No": "  3",
     "helix_code": "AA3",
+    "chain_identifier": "A",
     "helix_residues": [
         "ATOM    451  N   THR A  58       4.337   1.980  30.490  1.00 37.94           N  \n",
         "ATOM    452  CA  THR A  58       4.385   3.164  29.638  1.00 42.57           C  \n",
@@ -753,11 +756,12 @@
     "membraneBoundHelixRegions": [],
     "membraneBoundHelixLength": 0
 },{
-    "strating_residue_number": "  83",
+    "starting_residue_number": "  83",
     "ending_residue_number": "  90",
     "length": 8,
     "helix_S.No": "  4",
     "helix_code": "AA4",
+    "chain_identifier": "A",
     "helix_residues": [
         "ATOM    647  N   LEU A  83      35.221  -3.344  43.289  1.00 78.06           N  \n",
         "ATOM    648  CA  LEU A  83      34.819  -2.545  42.136  1.00 73.87           C  \n",
@@ -890,11 +894,12 @@
     "membraneBoundHelixRegions": [],
     "membraneBoundHelixLength": 0
 },{
-    "strating_residue_number": "  91",
+    "starting_residue_number": "  91",
     "ending_residue_number": " 106",
     "length": 16,
     "helix_S.No": "  5",
     "helix_code": "AA5",
+    "chain_identifier": "A",
     "helix_residues": [
         "ATOM    712  N   ASP A  91      37.865   7.517  34.355  1.00 58.92           N  \n",
         "ATOM    713  CA  ASP A  91      37.294   8.811  34.000  1.00 61.01           C  \n",
@@ -1141,11 +1146,12 @@
     "membraneBoundHelixRegions": [],
     "membraneBoundHelixLength": 0
 },{
-    "strating_residue_number": " 106",
+    "starting_residue_number": " 106",
     "ending_residue_number": " 111",
     "length": 6,
     "helix_S.No": "  6",
     "helix_code": "AA6",
+    "chain_identifier": "A",
     "helix_residues": [
         "ATOM    831  N   GLY A 106      25.469  -7.532  36.805  1.00 63.93           N  \n",
         "ATOM    832  CA  GLY A 106      25.384  -7.395  38.247  1.00 67.33           C  \n",
@@ -1235,11 +1241,12 @@
     "membraneBoundHelixRegions": [],
     "membraneBoundHelixLength": 0
 },{
-    "strating_residue_number": " 113",
+    "starting_residue_number": " 113",
     "ending_residue_number": " 122",
     "length": 10,
     "helix_S.No": "  7",
     "helix_code": "AA7",
+    "chain_identifier": "A",
     "helix_residues": [
         "ATOM    871  N   PHE A 113      35.812 -10.666  37.134  1.00 81.39           N  \n",
         "ATOM    872  CA  PHE A 113      36.836 -10.316  36.154  1.00 83.82           C  \n",
@@ -1406,11 +1413,12 @@
     "membraneBoundHelixRegions": [],
     "membraneBoundHelixLength": 0
 },{
-    "strating_residue_number": " 124",
+    "starting_residue_number": " 124",
     "ending_residue_number": " 133",
     "length": 10,
     "helix_S.No": "  8",
     "helix_code": "AA8",
+    "chain_identifier": "A",
     "helix_residues": [
         "ATOM    965  N   ARG A 124      46.151   0.303  32.067  1.00 85.08           N  \n",
         "ATOM    966  CA  ARG A 124      46.706  -0.289  30.859  1.00 86.91           C  \n",
@@ -1575,11 +1583,12 @@
     "membraneBoundHelixRegions": [],
     "membraneBoundHelixLength": 0
 },{
-    "strating_residue_number": " 135",
+    "starting_residue_number": " 135",
     "ending_residue_number": " 141",
     "length": 7,
     "helix_S.No": "  9",
     "helix_code": "AA9",
+    "chain_identifier": "A",
     "helix_residues": [
         "ATOM   1054  N   SER A 135      36.165 -13.842  27.277  1.00 85.78           N  \n",
         "ATOM   1055  CA  SER A 135      35.204 -14.175  28.322  1.00 86.59           C  \n",
@@ -1704,11 +1713,12 @@
     "membraneBoundHelixRegions": [],
     "membraneBoundHelixLength": 0
 },{
-    "strating_residue_number": " 141",
+    "starting_residue_number": " 141",
     "ending_residue_number": " 155",
     "length": 15,
     "helix_S.No": " 10",
     "helix_code": "AB1",
+    "chain_identifier": "A",
     "helix_residues": [
         "ATOM   1111  N   THR A 141      27.335 -11.875  23.977  1.00 91.97           N  \n",
         "ATOM   1112  CA  THR A 141      26.925 -10.613  23.374  1.00 90.27           C  \n",
@@ -1947,11 +1957,12 @@
     "membraneBoundHelixRegions": [],
     "membraneBoundHelixLength": 0
 },{
-    "strating_residue_number": " 157",
+    "starting_residue_number": " 157",
     "ending_residue_number": " 160",
     "length": 4,
     "helix_S.No": " 11",
     "helix_code": "AB2",
+    "chain_identifier": "A",
     "helix_residues": [
         "ATOM   1238  N   TRP A 157      33.353   8.023  22.976  1.00 63.03           N  \n",
         "ATOM   1239  CA  TRP A 157      32.030   7.496  22.661  1.00 64.69           C  \n",
@@ -2026,11 +2037,12 @@
     "membraneBoundHelixRegions": [],
     "membraneBoundHelixLength": 0
 },{
-    "strating_residue_number": " 161",
+    "starting_residue_number": " 161",
     "ending_residue_number": "1061",
     "length": 35,
     "helix_S.No": " 12",
     "helix_code": "AB3",
+    "chain_identifier": "A",
     "helix_residues": [
         "ATOM   1277  N   ALA A 161      28.852   5.977  18.264  1.00 62.53           N  \n",
         "ATOM   1278  CA  ALA A 161      28.620   7.051  17.307  1.00 64.79           C  \n",
@@ -2649,11 +2661,12 @@
     ],
     "membraneBoundHelixLength": 29
 },{
-    "strating_residue_number": "1066",
+    "starting_residue_number": "1066",
     "ending_residue_number": "1085",
     "length": 20,
     "helix_S.No": " 13",
     "helix_code": "AB4",
+    "chain_identifier": "A",
     "helix_residues": [
         "ATOM   1566  N   THR A1066      -5.881   7.277 -22.515  1.00 52.69           N  \n",
         "ATOM   1567  CA  THR A1066      -6.514   6.044 -22.966  1.00 52.55           C  \n",
@@ -3013,11 +3026,12 @@
     ],
     "membraneBoundHelixLength": 16
 },{
-    "strating_residue_number": "1085",
+    "starting_residue_number": "1085",
     "ending_residue_number": "1096",
     "length": 12,
     "helix_S.No": " 14",
     "helix_code": "AB5",
+    "chain_identifier": "A",
     "helix_residues": [
         "ATOM   1706  N   ALA A1085       1.374  12.282   1.926  1.00 47.16           N  \n",
         "ATOM   1707  CA  ALA A1085       0.757  12.190   3.243  1.00 47.59           C  \n",
@@ -3244,11 +3258,12 @@
     ],
     "membraneBoundHelixLength": 11
 },{
-    "strating_residue_number": "1102",
+    "starting_residue_number": "1102",
     "ending_residue_number": "1136",
     "length": 35,
     "helix_S.No": " 15",
     "helix_code": "AB6",
+    "chain_identifier": "A",
     "helix_residues": [
         "ATOM   1838  N   GLY A1102      -1.892  14.647  17.080  1.00 66.98           N  \n",
         "ATOM   1839  CA  GLY A1102      -2.996  14.154  17.883  1.00 67.62           C  \n",
@@ -3881,11 +3896,12 @@
     ],
     "membraneBoundHelixLength": 25
 },{
-    "strating_residue_number": "1140",
+    "starting_residue_number": "1140",
     "ending_residue_number": "1145",
     "length": 6,
     "helix_S.No": " 16",
     "helix_code": "AB7",
+    "chain_identifier": "A",
     "helix_residues": [
         "ATOM   2141  N   LYS A1140     -13.029  -7.732 -28.595  1.00 54.64           N  \n",
         "ATOM   2142  CA  LYS A1140     -14.136  -7.271 -27.767  1.00 59.35           C  \n",
@@ -3991,11 +4007,12 @@
     "membraneBoundHelixRegions": [],
     "membraneBoundHelixLength": 0
 },{
-    "strating_residue_number": "1146",
+    "starting_residue_number": "1146",
     "ending_residue_number": "1165",
     "length": 20,
     "helix_S.No": " 17",
     "helix_code": "AB8",
+    "chain_identifier": "A",
     "helix_residues": [
         "ATOM   2193  N   THR A1146     -15.286   0.532 -21.635  1.00 71.24           N  \n",
         "ATOM   2194  CA  THR A1146     -15.558   1.868 -22.146  1.00 68.92           C  \n",
@@ -4363,11 +4380,12 @@
     ],
     "membraneBoundHelixLength": 16
 },{
-    "strating_residue_number": "1165",
+    "starting_residue_number": "1165",
     "ending_residue_number": "1171",
     "length": 7,
     "helix_S.No": " 18",
     "helix_code": "AB9",
+    "chain_identifier": "A",
     "helix_residues": [
         "ATOM   2342  N   SER A1165     -10.538   1.261   4.874  1.00 45.62           N  \n",
         "ATOM   2343  CA  SER A1165      -9.661   2.185   5.582  1.00 44.29           C  \n",
@@ -4513,11 +4531,12 @@
     ],
     "membraneBoundHelixLength": 6
 },{
-    "strating_residue_number": "1178",
+    "starting_residue_number": "1178",
     "ending_residue_number": "1187",
     "length": 10,
     "helix_S.No": " 19",
     "helix_code": "AC1",
+    "chain_identifier": "A",
     "helix_residues": [
         "ATOM   2458  N   HIS A1178      -5.652  -6.107  23.254  1.00 36.73           N  \n",
         "ATOM   2459  CA  HIS A1178      -4.590  -6.333  24.230  1.00 37.53           C  \n",
@@ -4680,11 +4699,12 @@
     "membraneBoundHelixRegions": [],
     "membraneBoundHelixLength": 0
 },{
-    "strating_residue_number": "1196",
+    "starting_residue_number": "1196",
     "ending_residue_number": "1208",
     "length": 13,
     "helix_S.No": " 20",
     "helix_code": "AC2",
+    "chain_identifier": "A",
     "helix_residues": [
         "ATOM   2604  N   ASN A1196      -6.869  -5.948  15.255  1.00 47.07           N  \n",
         "ATOM   2605  CA  ASN A1196      -7.370  -7.250  15.676  1.00 46.87           C  \n",
@@ -4934,11 +4954,12 @@
     ],
     "membraneBoundHelixLength": 13
 },{
-    "strating_residue_number": "1208",
+    "starting_residue_number": "1208",
     "ending_residue_number": "1233",
     "length": 26,
     "helix_S.No": " 21",
     "helix_code": "AC3",
+    "chain_identifier": "A",
     "helix_residues": [
         "ATOM   2689  N   PHE A1208      -4.913  -7.043  -0.872  1.00 33.27           N  \n",
         "ATOM   2690  CA  PHE A1208      -3.728  -7.678  -1.442  1.00 30.30           C  \n",
@@ -5409,11 +5430,12 @@
     ],
     "membraneBoundHelixLength": 10
 },{
-    "strating_residue_number": "1265",
+    "starting_residue_number": "1265",
     "ending_residue_number": "1296",
     "length": 0,
     "helix_S.No": " 22",
     "helix_code": "AC4",
+    "chain_identifier": "A",
     "helix_residues": [],
     "mainChainHelix_residues": [],
     "n_nplusfour_distances": [],
@@ -5423,11 +5445,12 @@
     "membraneBoundHelixRegions": [],
     "membraneBoundHelixLength": 0
 },{
-    "strating_residue_number": "1304",
+    "starting_residue_number": "1304",
     "ending_residue_number": "1317",
     "length": 14,
     "helix_S.No": " 23",
     "helix_code": "AC5",
+    "chain_identifier": "A",
     "helix_residues": [
         "ATOM   3269  N   ARG A1304       8.731  -9.203  14.635  1.00 48.31           N  \n",
         "ATOM   3270  CA  ARG A1304       9.199  -8.048  15.392  1.00 52.36           C  \n",
@@ -5716,11 +5739,12 @@
     ],
     "membraneBoundHelixLength": 14
 },{
-    "strating_residue_number": "1317",
+    "starting_residue_number": "1317",
     "ending_residue_number": "1322",
     "length": 6,
     "helix_S.No": " 24",
     "helix_code": "AC6",
+    "chain_identifier": "A",
     "helix_residues": [
         "ATOM   3387  N   VAL A1317       7.910   1.861  -1.211  1.00 41.87           N  \n",
         "ATOM   3388  CA  VAL A1317       8.748   2.244  -2.343  1.00 42.61           C  \n",
@@ -5843,11 +5867,12 @@
     ],
     "membraneBoundHelixLength": 5
 },{
-    "strating_residue_number": "1323",
+    "starting_residue_number": "1323",
     "ending_residue_number": "1325",
     "length": 3,
     "helix_S.No": " 25",
     "helix_code": "AC7",
+    "chain_identifier": "A",
     "helix_residues": [
         "ATOM   3431  N   PRO A1323       5.787   4.317 -11.476  1.00 39.81           N  \n",
         "ATOM   3432  CA  PRO A1323       5.999   5.147 -12.671  1.00 40.00           C  \n",
@@ -5910,11 +5935,12 @@
     ],
     "membraneBoundHelixLength": 3
 },{
-    "strating_residue_number": "1329",
+    "starting_residue_number": "1329",
     "ending_residue_number": "1340",
     "length": 12,
     "helix_S.No": " 26",
     "helix_code": "AC8",
+    "chain_identifier": "A",
     "helix_residues": [
         "ATOM   3483  N   SER A1329       6.132   3.806 -22.244  1.00 51.51           N  \n",
         "ATOM   3484  CA  SER A1329       5.763   4.006 -23.641  1.00 51.46           C  \n",
@@ -6111,75 +6137,78 @@
     "membraneBoundHelixRegions": [],
     "membraneBoundHelixLength": 0
 },{
-    "strating_residue_number": "  28",
+    "starting_residue_number": "  28",
     "ending_residue_number": "  32",
     "length": 5,
     "helix_S.No": " 27",
     "helix_code": "AC9",
+    "chain_identifier": "N",
     "helix_residues": [
-        "ATOM    233  N   ILE A  28      13.613  -0.555  29.450  1.00 38.85           N  \n",
-        "ATOM    234  CA  ILE A  28      14.980  -0.386  28.979  1.00 41.17           C  \n",
-        "ATOM    235  C   ILE A  28      15.912  -1.346  29.713  1.00 44.57           C  \n",
-        "ATOM    236  O   ILE A  28      16.714  -0.936  30.554  1.00 46.92           O  \n",
-        "ATOM    237  CB  ILE A  28      15.465   1.064  29.165  1.00 37.53           C  \n",
-        "ATOM    238  CG1 ILE A  28      14.372   2.044  28.734  1.00 33.46           C  \n",
-        "ATOM    239  CG2 ILE A  28      16.751   1.306  28.382  1.00 36.03           C  \n",
-        "ATOM    240  CD1 ILE A  28      14.772   3.498  28.854  1.00 31.21           C  \n",
-        "ATOM    241  N   GLY A  29      15.784  -2.630  29.400  1.00 46.55           N  \n",
-        "ATOM    242  CA  GLY A  29      16.656  -3.647  29.956  1.00 50.21           C  \n",
-        "ATOM    243  C   GLY A  29      16.475  -3.908  31.439  1.00 51.14           C  \n",
-        "ATOM    244  O   GLY A  29      17.454  -4.089  32.164  1.00 56.93           O  \n",
-        "ATOM    245  N   HIS A  30      15.230  -3.931  31.901  1.00 45.89           N  \n",
-        "ATOM    246  CA  HIS A  30      14.962  -4.242  33.301  1.00 45.17           C  \n",
-        "ATOM    247  C   HIS A  30      14.596  -5.709  33.485  1.00 44.14           C  \n",
-        "ATOM    248  O   HIS A  30      13.485  -6.129  33.157  1.00 44.13           O  \n",
-        "ATOM    249  CB  HIS A  30      13.842  -3.361  33.856  1.00 43.90           C  \n",
-        "ATOM    250  CG  HIS A  30      13.469  -3.689  35.268  1.00 42.44           C  \n",
-        "ATOM    251  ND1 HIS A  30      14.324  -3.488  36.330  1.00 41.16           N  \n",
-        "ATOM    252  CD2 HIS A  30      12.338  -4.218  35.792  1.00 43.30           C  \n",
-        "ATOM    253  CE1 HIS A  30      13.733  -3.872  37.448  1.00 42.18           C  \n",
-        "ATOM    254  NE2 HIS A  30      12.528  -4.319  37.149  1.00 43.85           N  \n",
-        "ATOM    255  N   LEU A  31      15.539  -6.482  34.014  1.00 44.23           N  \n",
-        "ATOM    256  CA  LEU A  31      15.309  -7.891  34.307  1.00 42.17           C  \n",
-        "ATOM    257  C   LEU A  31      14.193  -8.064  35.330  1.00 40.93           C  \n",
-        "ATOM    258  O   LEU A  31      14.271  -7.537  36.439  1.00 44.49           O  \n",
-        "ATOM    259  CB  LEU A  31      16.593  -8.544  34.818  1.00 44.71           C  \n",
-        "ATOM    260  CG  LEU A  31      16.458  -9.948  35.410  1.00 47.56           C  \n",
-        "ATOM    261  CD1 LEU A  31      16.015 -10.938  34.347  1.00 48.53           C  \n",
-        "ATOM    262  CD2 LEU A  31      17.766 -10.390  36.048  1.00 49.90           C  \n",
-        "ATOM    263  N   LEU A  32      13.153  -8.799  34.951  1.00 38.79           N  \n",
-        "ATOM    264  CA  LEU A  32      12.042  -9.069  35.855  1.00 38.09           C  \n",
-        "ATOM    265  C   LEU A  32      12.334 -10.283  36.730  1.00 38.42           C  \n",
-        "ATOM    266  O   LEU A  32      12.186 -10.227  37.951  1.00 37.78           O  \n",
-        "ATOM    267  CB  LEU A  32      10.748  -9.286  35.069  1.00 35.94           C  \n",
-        "ATOM    268  CG  LEU A  32      10.207  -8.072  34.313  1.00 35.43           C  \n",
-        "ATOM    269  CD1 LEU A  32       8.938  -8.430  33.565  1.00 32.21           C  \n",
-        "ATOM    270  CD2 LEU A  32       9.964  -6.919  35.272  1.00 38.91           C  \n"
+        "ATOM   3783  N   ALA N  28       3.649   7.409 -31.331  1.00 51.55           N  \n",
+        "ATOM   3784  CA  ALA N  28       4.878   7.364 -32.117  1.00 53.16           C  \n",
+        "ATOM   3785  C   ALA N  28       4.895   6.151 -33.039  1.00 51.77           C  \n",
+        "ATOM   3786  O   ALA N  28       5.534   5.145 -32.742  1.00 51.14           O  \n",
+        "ATOM   3787  CB  ALA N  28       6.092   7.352 -31.202  1.00 54.31           C  \n",
+        "ATOM   3788  N   PHE N  29       4.199   6.275 -34.165  1.00 53.11           N  \n",
+        "ATOM   3789  CA  PHE N  29       3.998   5.184 -35.118  1.00 50.19           C  \n",
+        "ATOM   3790  C   PHE N  29       5.281   4.475 -35.551  1.00 47.20           C  \n",
+        "ATOM   3791  O   PHE N  29       5.342   3.245 -35.558  1.00 46.16           O  \n",
+        "ATOM   3792  CB  PHE N  29       3.275   5.727 -36.352  1.00 49.85           C  \n",
+        "ATOM   3793  CG  PHE N  29       2.859   4.669 -37.334  1.00 47.51           C  \n",
+        "ATOM   3794  CD1 PHE N  29       1.641   4.025 -37.198  1.00 32.76           C  \n",
+        "ATOM   3795  CD2 PHE N  29       3.676   4.330 -38.400  1.00 33.99           C  \n",
+        "ATOM   3796  CE1 PHE N  29       1.249   3.057 -38.099  1.00 32.32           C  \n",
+        "ATOM   3797  CE2 PHE N  29       3.291   3.359 -39.303  1.00 33.55           C  \n",
+        "ATOM   3798  CZ  PHE N  29       2.074   2.727 -39.154  1.00 32.69           C  \n",
+        "ATOM   3799  N   SER N  30       6.296   5.257 -35.905  1.00 47.43           N  \n",
+        "ATOM   3800  CA  SER N  30       7.521   4.727 -36.503  1.00 50.18           C  \n",
+        "ATOM   3801  C   SER N  30       8.221   3.675 -35.642  1.00 48.72           C  \n",
+        "ATOM   3802  O   SER N  30       8.845   2.753 -36.167  1.00 50.55           O  \n",
+        "ATOM   3803  CB  SER N  30       8.492   5.872 -36.801  1.00 60.40           C  \n",
+        "ATOM   3804  OG  SER N  30       8.830   6.577 -35.619  1.00 69.63           O  \n",
+        "ATOM   3805  N   SER N  31       8.116   3.813 -34.325  1.00 45.55           N  \n",
+        "ATOM   3806  CA  SER N  31       8.749   2.865 -33.416  1.00 44.31           C  \n",
+        "ATOM   3807  C   SER N  31       7.731   1.893 -32.830  1.00 39.35           C  \n",
+        "ATOM   3808  O   SER N  31       7.739   1.619 -31.633  1.00 38.97           O  \n",
+        "ATOM   3809  CB  SER N  31       9.482   3.605 -32.295  1.00 47.36           C  \n",
+        "ATOM   3810  OG  SER N  31       8.605   4.462 -31.585  1.00 47.57           O  \n",
+        "ATOM   3811  N   TYR N  32       6.859   1.372 -33.687  1.00 36.38           N  \n",
+        "ATOM   3812  CA  TYR N  32       5.839   0.418 -33.266  1.00 34.17           C  \n",
+        "ATOM   3813  C   TYR N  32       5.781  -0.787 -34.196  1.00 33.74           C  \n",
+        "ATOM   3814  O   TYR N  32       5.945  -0.654 -35.407  1.00 35.61           O  \n",
+        "ATOM   3815  CB  TYR N  32       4.463   1.089 -33.216  1.00 34.86           C  \n",
+        "ATOM   3816  CG  TYR N  32       4.055   1.592 -31.851  1.00 37.11           C  \n",
+        "ATOM   3817  CD1 TYR N  32       4.735   2.636 -31.241  1.00 40.85           C  \n",
+        "ATOM   3818  CD2 TYR N  32       2.974   1.035 -31.179  1.00 38.42           C  \n",
+        "ATOM   3819  CE1 TYR N  32       4.360   3.105 -29.996  1.00 42.76           C  \n",
+        "ATOM   3820  CE2 TYR N  32       2.591   1.497 -29.933  1.00 40.08           C  \n",
+        "ATOM   3821  CZ  TYR N  32       3.288   2.532 -29.346  1.00 42.39           C  \n",
+        "ATOM   3822  OH  TYR N  32       2.913   2.998 -28.106  1.00 44.94           O  \n"
     ],
     "mainChainHelix_residues": [
-        "ATOM    233  N   ILE A  28      13.613  -0.555  29.450  1.00 38.85           N  \n",
-        "ATOM    234  CA  ILE A  28      14.980  -0.386  28.979  1.00 41.17           C  \n",
-        "ATOM    235  C   ILE A  28      15.912  -1.346  29.713  1.00 44.57           C  \n",
-        "ATOM    236  O   ILE A  28      16.714  -0.936  30.554  1.00 46.92           O  \n",
-        "ATOM    241  N   GLY A  29      15.784  -2.630  29.400  1.00 46.55           N  \n",
-        "ATOM    242  CA  GLY A  29      16.656  -3.647  29.956  1.00 50.21           C  \n",
-        "ATOM    243  C   GLY A  29      16.475  -3.908  31.439  1.00 51.14           C  \n",
-        "ATOM    244  O   GLY A  29      17.454  -4.089  32.164  1.00 56.93           O  \n",
-        "ATOM    245  N   HIS A  30      15.230  -3.931  31.901  1.00 45.89           N  \n",
-        "ATOM    246  CA  HIS A  30      14.962  -4.242  33.301  1.00 45.17           C  \n",
-        "ATOM    247  C   HIS A  30      14.596  -5.709  33.485  1.00 44.14           C  \n",
-        "ATOM    248  O   HIS A  30      13.485  -6.129  33.157  1.00 44.13           O  \n",
-        "ATOM    255  N   LEU A  31      15.539  -6.482  34.014  1.00 44.23           N  \n",
-        "ATOM    256  CA  LEU A  31      15.309  -7.891  34.307  1.00 42.17           C  \n",
-        "ATOM    257  C   LEU A  31      14.193  -8.064  35.330  1.00 40.93           C  \n",
-        "ATOM    258  O   LEU A  31      14.271  -7.537  36.439  1.00 44.49           O  \n",
-        "ATOM    263  N   LEU A  32      13.153  -8.799  34.951  1.00 38.79           N  \n",
-        "ATOM    264  CA  LEU A  32      12.042  -9.069  35.855  1.00 38.09           C  \n",
-        "ATOM    265  C   LEU A  32      12.334 -10.283  36.730  1.00 38.42           C  \n",
-        "ATOM    266  O   LEU A  32      12.186 -10.227  37.951  1.00 37.78           O  \n"
+        "ATOM   3783  N   ALA N  28       3.649   7.409 -31.331  1.00 51.55           N  \n",
+        "ATOM   3784  CA  ALA N  28       4.878   7.364 -32.117  1.00 53.16           C  \n",
+        "ATOM   3785  C   ALA N  28       4.895   6.151 -33.039  1.00 51.77           C  \n",
+        "ATOM   3786  O   ALA N  28       5.534   5.145 -32.742  1.00 51.14           O  \n",
+        "ATOM   3788  N   PHE N  29       4.199   6.275 -34.165  1.00 53.11           N  \n",
+        "ATOM   3789  CA  PHE N  29       3.998   5.184 -35.118  1.00 50.19           C  \n",
+        "ATOM   3790  C   PHE N  29       5.281   4.475 -35.551  1.00 47.20           C  \n",
+        "ATOM   3791  O   PHE N  29       5.342   3.245 -35.558  1.00 46.16           O  \n",
+        "ATOM   3799  N   SER N  30       6.296   5.257 -35.905  1.00 47.43           N  \n",
+        "ATOM   3800  CA  SER N  30       7.521   4.727 -36.503  1.00 50.18           C  \n",
+        "ATOM   3801  C   SER N  30       8.221   3.675 -35.642  1.00 48.72           C  \n",
+        "ATOM   3802  O   SER N  30       8.845   2.753 -36.167  1.00 50.55           O  \n",
+        "ATOM   3805  N   SER N  31       8.116   3.813 -34.325  1.00 45.55           N  \n",
+        "ATOM   3806  CA  SER N  31       8.749   2.865 -33.416  1.00 44.31           C  \n",
+        "ATOM   3807  C   SER N  31       7.731   1.893 -32.830  1.00 39.35           C  \n",
+        "ATOM   3808  O   SER N  31       7.739   1.619 -31.633  1.00 38.97           O  \n",
+        "ATOM   3811  N   TYR N  32       6.859   1.372 -33.687  1.00 36.38           N  \n",
+        "ATOM   3812  CA  TYR N  32       5.839   0.418 -33.266  1.00 34.17           C  \n",
+        "ATOM   3813  C   TYR N  32       5.781  -0.787 -34.196  1.00 33.74           C  \n",
+        "ATOM   3814  O   TYR N  32       5.945  -0.654 -35.407  1.00 35.61           O  \n"
     ],
     "n_nplusfour_distances": [
-        9.687161555378335,
+        4.109036261704197,
         0,
         0,
         0
@@ -6188,108 +6217,112 @@
         28
     ],
     "psi_angles": [
-        70.86500220032475,
-        40.76980946347977,
-        104.92976149638356,
-        121.8386434874297
+        80.20246171339755,
+        -47.15789810779822,
+        -32.32010755195858,
+        44.89759722071561
     ],
     "phi_angles": [
-        68.86177658468716,
-        -97.00902591739701,
-        -61.49172810456,
-        -85.69412516411482
+        -51.34986115801576,
+        -57.050019959047745,
+        -103.00975266409104,
+        -132.60879946633995
     ],
     "membraneBoundHelixRegions": [],
     "membraneBoundHelixLength": 0
 },{
-    "strating_residue_number": "  86",
+    "starting_residue_number": "  86",
     "ending_residue_number": "  90",
     "length": 5,
     "helix_S.No": " 28",
     "helix_code": "AD1",
+    "chain_identifier": "N",
     "helix_residues": [
-        "ATOM    671  N   VAL A  86      38.371   0.677  41.303  1.00 62.10           N  \n",
-        "ATOM    672  CA  VAL A  86      38.450   0.746  39.849  1.00 60.94           C  \n",
-        "ATOM    673  C   VAL A  86      37.586   1.888  39.321  1.00 59.49           C  \n",
-        "ATOM    674  O   VAL A  86      38.022   2.668  38.475  1.00 60.26           O  \n",
-        "ATOM    675  CB  VAL A  86      38.008  -0.576  39.195  1.00 58.88           C  \n",
-        "ATOM    676  CG1 VAL A  86      38.130  -0.489  37.683  1.00 58.89           C  \n",
-        "ATOM    677  CG2 VAL A  86      38.833  -1.732  39.734  1.00 58.47           C  \n",
-        "ATOM    678  N   TYR A  87      36.362   1.979  39.835  1.00 60.61           N  \n",
-        "ATOM    679  CA  TYR A  87      35.420   3.020  39.436  1.00 63.22           C  \n",
-        "ATOM    680  C   TYR A  87      35.967   4.416  39.719  1.00 64.88           C  \n",
-        "ATOM    681  O   TYR A  87      35.823   5.325  38.900  1.00 65.96           O  \n",
-        "ATOM    682  CB  TYR A  87      34.081   2.822  40.153  1.00 69.00           C  \n",
-        "ATOM    683  CG  TYR A  87      33.045   3.889  39.866  1.00 74.58           C  \n",
-        "ATOM    684  CD1 TYR A  87      32.227   3.808  38.746  1.00 75.27           C  \n",
-        "ATOM    685  CD2 TYR A  87      32.875   4.968  40.725  1.00 78.43           C  \n",
-        "ATOM    686  CE1 TYR A  87      31.275   4.779  38.484  1.00 75.92           C  \n",
-        "ATOM    687  CE2 TYR A  87      31.928   5.943  40.470  1.00 78.27           C  \n",
-        "ATOM    688  CZ  TYR A  87      31.130   5.843  39.351  1.00 76.85           C  \n",
-        "ATOM    689  OH  TYR A  87      30.186   6.813  39.097  1.00 76.94           O  \n",
-        "ATOM    690  N   ASP A  88      36.591   4.577  40.881  1.00 65.77           N  \n",
-        "ATOM    691  CA  ASP A  88      37.184   5.854  41.264  1.00 66.43           C  \n",
-        "ATOM    692  C   ASP A  88      38.361   6.201  40.359  1.00 64.88           C  \n",
-        "ATOM    693  O   ASP A  88      38.616   7.372  40.077  1.00 64.77           O  \n",
-        "ATOM    694  CB  ASP A  88      37.638   5.822  42.726  1.00 69.32           C  \n",
-        "ATOM    695  CG  ASP A  88      36.482   5.671  43.695  1.00 69.41           C  \n",
-        "ATOM    696  OD1 ASP A  88      35.379   6.174  43.392  1.00 70.12           O  \n",
-        "ATOM    697  OD2 ASP A  88      36.675   5.050  44.763  1.00 68.74           O  \n",
-        "ATOM    698  N   SER A  89      39.071   5.173  39.907  1.00 62.93           N  \n",
-        "ATOM    699  CA  SER A  89      40.241   5.351  39.054  1.00 63.49           C  \n",
-        "ATOM    700  C   SER A  89      39.879   5.804  37.642  1.00 60.44           C  \n",
-        "ATOM    701  O   SER A  89      40.630   6.546  37.009  1.00 58.77           O  \n",
-        "ATOM    702  CB  SER A  89      41.043   4.051  38.983  1.00 67.51           C  \n",
-        "ATOM    703  OG  SER A  89      41.997   4.099  37.935  1.00 70.60           O  \n",
-        "ATOM    704  N   LEU A  90      38.729   5.350  37.155  1.00 59.64           N  \n",
-        "ATOM    705  CA  LEU A  90      38.318   5.609  35.778  1.00 56.44           C  \n",
-        "ATOM    706  C   LEU A  90      37.765   7.017  35.584  1.00 58.75           C  \n",
-        "ATOM    707  O   LEU A  90      37.262   7.635  36.522  1.00 61.87           O  \n",
-        "ATOM    708  CB  LEU A  90      37.274   4.581  35.339  1.00 49.80           C  \n",
-        "ATOM    709  CG  LEU A  90      37.736   3.125  35.320  1.00 46.18           C  \n",
-        "ATOM    710  CD1 LEU A  90      36.595   2.202  34.924  1.00 43.96           C  \n",
-        "ATOM    711  CD2 LEU A  90      38.920   2.953  34.385  1.00 43.95           C  \n"
+        "ATOM   4252  N   ARG N  86     -10.021 -16.252 -50.707  1.00 58.50           N  \n",
+        "ATOM   4253  CA  ARG N  86     -10.741 -17.512 -50.574  1.00 63.83           C  \n",
+        "ATOM   4254  C   ARG N  86     -11.886 -17.379 -49.575  1.00 64.71           C  \n",
+        "ATOM   4255  O   ARG N  86     -11.849 -16.508 -48.705  1.00 66.79           O  \n",
+        "ATOM   4256  CB  ARG N  86      -9.781 -18.624 -50.140  1.00 70.64           C  \n",
+        "ATOM   4257  CG  ARG N  86      -8.918 -19.165 -51.262  1.00 78.71           C  \n",
+        "ATOM   4258  CD  ARG N  86      -7.736 -19.958 -50.727  1.00 84.10           C  \n",
+        "ATOM   4259  NE  ARG N  86      -7.104 -20.758 -51.772  1.00 90.82           N  \n",
+        "ATOM   4260  CZ  ARG N  86      -6.283 -20.272 -52.698  1.00 93.60           C  \n",
+        "ATOM   4261  NH1 ARG N  86      -5.994 -18.978 -52.721  1.00 92.91           N  \n",
+        "ATOM   4262  NH2 ARG N  86      -5.756 -21.080 -53.609  1.00 96.30           N  \n",
+        "ATOM   4263  N   PRO N  87     -12.912 -18.239 -49.699  1.00 62.33           N  \n",
+        "ATOM   4264  CA  PRO N  87     -14.037 -18.251 -48.752  1.00 61.02           C  \n",
+        "ATOM   4265  C   PRO N  87     -13.595 -18.454 -47.301  1.00 59.42           C  \n",
+        "ATOM   4266  O   PRO N  87     -14.331 -18.093 -46.384  1.00 60.62           O  \n",
+        "ATOM   4267  CB  PRO N  87     -14.881 -19.434 -49.231  1.00 62.12           C  \n",
+        "ATOM   4268  CG  PRO N  87     -14.580 -19.538 -50.680  1.00 62.94           C  \n",
+        "ATOM   4269  CD  PRO N  87     -13.131 -19.172 -50.820  1.00 62.92           C  \n",
+        "ATOM   4270  N   GLU N  88     -12.413 -19.027 -47.105  1.00 57.36           N  \n",
+        "ATOM   4271  CA  GLU N  88     -11.872 -19.239 -45.768  1.00 55.39           C  \n",
+        "ATOM   4272  C   GLU N  88     -11.323 -17.937 -45.197  1.00 50.24           C  \n",
+        "ATOM   4273  O   GLU N  88     -11.273 -17.753 -43.981  1.00 49.78           O  \n",
+        "ATOM   4274  CB  GLU N  88     -10.777 -20.309 -45.787  1.00 61.07           C  \n",
+        "ATOM   4275  CG  GLU N  88     -11.281 -21.722 -46.055  1.00 69.04           C  \n",
+        "ATOM   4276  CD  GLU N  88     -11.755 -21.921 -47.483  1.00 74.47           C  \n",
+        "ATOM   4277  OE1 GLU N  88     -11.062 -21.452 -48.412  1.00 74.88           O  \n",
+        "ATOM   4278  OE2 GLU N  88     -12.824 -22.537 -47.676  1.00 77.59           O  \n",
+        "ATOM   4279  N   ASP N  89     -10.922 -17.031 -46.083  1.00 49.58           N  \n",
+        "ATOM   4280  CA  ASP N  89     -10.383 -15.740 -45.670  1.00 47.85           C  \n",
+        "ATOM   4281  C   ASP N  89     -11.491 -14.794 -45.214  1.00 44.23           C  \n",
+        "ATOM   4282  O   ASP N  89     -11.226 -13.651 -44.844  1.00 41.33           O  \n",
+        "ATOM   4283  CB  ASP N  89      -9.586 -15.103 -46.810  1.00 49.77           C  \n",
+        "ATOM   4284  CG  ASP N  89      -8.407 -15.951 -47.242  1.00 54.12           C  \n",
+        "ATOM   4285  OD1 ASP N  89      -7.831 -16.656 -46.385  1.00 56.02           O  \n",
+        "ATOM   4286  OD2 ASP N  89      -8.056 -15.914 -48.439  1.00 56.18           O  \n",
+        "ATOM   4287  N   THR N  90     -12.730 -15.274 -45.248  1.00 44.25           N  \n",
+        "ATOM   4288  CA  THR N  90     -13.866 -14.497 -44.772  1.00 43.18           C  \n",
+        "ATOM   4289  C   THR N  90     -13.807 -14.350 -43.257  1.00 45.00           C  \n",
+        "ATOM   4290  O   THR N  90     -14.020 -15.316 -42.522  1.00 49.98           O  \n",
+        "ATOM   4291  CB  THR N  90     -15.204 -15.141 -45.170  1.00 42.26           C  \n",
+        "ATOM   4292  OG1 THR N  90     -15.326 -15.147 -46.598  1.00 45.03           O  \n",
+        "ATOM   4293  CG2 THR N  90     -16.368 -14.366 -44.572  1.00 39.18           C  \n"
     ],
     "mainChainHelix_residues": [
-        "ATOM    671  N   VAL A  86      38.371   0.677  41.303  1.00 62.10           N  \n",
-        "ATOM    672  CA  VAL A  86      38.450   0.746  39.849  1.00 60.94           C  \n",
-        "ATOM    673  C   VAL A  86      37.586   1.888  39.321  1.00 59.49           C  \n",
-        "ATOM    674  O   VAL A  86      38.022   2.668  38.475  1.00 60.26           O  \n",
-        "ATOM    678  N   TYR A  87      36.362   1.979  39.835  1.00 60.61           N  \n",
-        "ATOM    679  CA  TYR A  87      35.420   3.020  39.436  1.00 63.22           C  \n",
-        "ATOM    680  C   TYR A  87      35.967   4.416  39.719  1.00 64.88           C  \n",
-        "ATOM    681  O   TYR A  87      35.823   5.325  38.900  1.00 65.96           O  \n",
-        "ATOM    690  N   ASP A  88      36.591   4.577  40.881  1.00 65.77           N  \n",
-        "ATOM    691  CA  ASP A  88      37.184   5.854  41.264  1.00 66.43           C  \n",
-        "ATOM    692  C   ASP A  88      38.361   6.201  40.359  1.00 64.88           C  \n",
-        "ATOM    693  O   ASP A  88      38.616   7.372  40.077  1.00 64.77           O  \n",
-        "ATOM    698  N   SER A  89      39.071   5.173  39.907  1.00 62.93           N  \n",
-        "ATOM    699  CA  SER A  89      40.241   5.351  39.054  1.00 63.49           C  \n",
-        "ATOM    700  C   SER A  89      39.879   5.804  37.642  1.00 60.44           C  \n",
-        "ATOM    701  O   SER A  89      40.630   6.546  37.009  1.00 58.77           O  \n",
-        "ATOM    704  N   LEU A  90      38.729   5.350  37.155  1.00 59.64           N  \n",
-        "ATOM    705  CA  LEU A  90      38.318   5.609  35.778  1.00 56.44           C  \n",
-        "ATOM    706  C   LEU A  90      37.765   7.017  35.584  1.00 58.75           C  \n",
-        "ATOM    707  O   LEU A  90      37.262   7.635  36.522  1.00 61.87           O  \n"
+        "ATOM   4252  N   ARG N  86     -10.021 -16.252 -50.707  1.00 58.50           N  \n",
+        "ATOM   4253  CA  ARG N  86     -10.741 -17.512 -50.574  1.00 63.83           C  \n",
+        "ATOM   4254  C   ARG N  86     -11.886 -17.379 -49.575  1.00 64.71           C  \n",
+        "ATOM   4255  O   ARG N  86     -11.849 -16.508 -48.705  1.00 66.79           O  \n",
+        "ATOM   4263  N   PRO N  87     -12.912 -18.239 -49.699  1.00 62.33           N  \n",
+        "ATOM   4264  CA  PRO N  87     -14.037 -18.251 -48.752  1.00 61.02           C  \n",
+        "ATOM   4265  C   PRO N  87     -13.595 -18.454 -47.301  1.00 59.42           C  \n",
+        "ATOM   4266  O   PRO N  87     -14.331 -18.093 -46.384  1.00 60.62           O  \n",
+        "ATOM   4270  N   GLU N  88     -12.413 -19.027 -47.105  1.00 57.36           N  \n",
+        "ATOM   4271  CA  GLU N  88     -11.872 -19.239 -45.768  1.00 55.39           C  \n",
+        "ATOM   4272  C   GLU N  88     -11.323 -17.937 -45.197  1.00 50.24           C  \n",
+        "ATOM   4273  O   GLU N  88     -11.273 -17.753 -43.981  1.00 49.78           O  \n",
+        "ATOM   4279  N   ASP N  89     -10.922 -17.031 -46.083  1.00 49.58           N  \n",
+        "ATOM   4280  CA  ASP N  89     -10.383 -15.740 -45.670  1.00 47.85           C  \n",
+        "ATOM   4281  C   ASP N  89     -11.491 -14.794 -45.214  1.00 44.23           C  \n",
+        "ATOM   4282  O   ASP N  89     -11.226 -13.651 -44.844  1.00 41.33           O  \n",
+        "ATOM   4287  N   THR N  90     -12.730 -15.274 -45.248  1.00 44.25           N  \n",
+        "ATOM   4288  CA  THR N  90     -13.866 -14.497 -44.772  1.00 43.18           C  \n",
+        "ATOM   4289  C   THR N  90     -13.807 -14.350 -43.257  1.00 45.00           C  \n",
+        "ATOM   4290  O   THR N  90     -14.020 -15.316 -42.522  1.00 49.98           O  \n"
     ],
     "n_nplusfour_distances": [
-        3.0717052267429565,
+        3.7748862234509803,
         0,
         0,
         0
     ],
-    "broken_H_bonds": [],
+    "broken_H_bonds": [
+        86
+    ],
     "psi_angles": [
-        -45.97806499354463,
-        -42.00986412392005,
-        -32.78289356826588,
-        -33.07293895171181
+        155.95289561232158,
+        -22.11427743395964,
+        -26.04632304190647,
+        0.6114721855738164
     ],
     "phi_angles": [
-        -59.77842848441194,
-        -66.47626825831608,
-        -71.4721040667666,
-        -78.29193047357923
+        -56.5908282929732,
+        -76.95884827667383,
+        -76.29605087106472,
+        -69.55901568413398
     ],
     "membraneBoundHelixRegions": [],
     "membraneBoundHelixLength": 0

@@ -1,0 +1,39 @@
+[{
+    "id": 2,
+    "starting_residue": 43,
+    "ending_residue": 68,
+    "chain_identifier": "A",
+    "length": 26,
+    "broken_residues": [
+        "ATOM    350  N   ILE A  60      -8.496   8.254   2.947  1.00112.13           N  \n"
+    ],
+    "flag": 1
+},{
+    "id": 5,
+    "starting_residue": 119,
+    "ending_residue": 141,
+    "chain_identifier": "A",
+    "length": 23,
+    "broken_residues": [
+        "ATOM    926  N   THR A 138      -7.124  -8.757  10.255  1.00147.00           N  \n",
+        "ATOM    927  CA  THR A 138      -6.512  -9.673  11.227  1.00163.83           C  \n",
+        "ATOM    928  C   THR A 138      -6.556  -9.123  12.666  1.00182.55           C  \n",
+        "ATOM    929  O   THR A 138      -6.910  -9.871  13.576  1.00238.71           O  \n",
+        "ATOM    933  N   PRO A 139      -6.200  -7.830  12.879  1.00161.08           N  \n",
+        "ATOM    934  CA  PRO A 139      -6.350  -7.221  14.217  1.00158.61           C  \n",
+        "ATOM    935  C   PRO A 139      -7.751  -7.267  14.856  1.00135.00           C  \n",
+        "ATOM    936  O   PRO A 139      -7.850  -7.239  16.084  1.00107.93           O  \n"
+    ],
+    "flag": 1
+},{
+    "id": 8,
+    "starting_residue": 172,
+    "ending_residue": 200,
+    "chain_identifier": "A",
+    "length": 29,
+    "broken_residues": [
+        "ATOM   1110  N   ASN A 181       2.720  -7.504   9.012  1.00131.48           N  \n",
+        "ATOM   1152  N   LEU A 187       7.159  -5.373   2.292  1.00105.03           N  \n"
+    ],
+    "flag": 1
+},{}]

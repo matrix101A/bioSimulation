@@ -1,0 +1,47 @@
+[{
+    "id": 2,
+    "starting_residue": 590,
+    "ending_residue": 613,
+    "chain_identifier": "A",
+    "length": 24,
+    "broken_residues": [
+        "ATOM   4078  N   ALA A 610     -36.838  -3.845 -12.163  1.00106.57           N  \n"
+    ],
+    "flag": 1
+},{
+    "id": 4,
+    "starting_residue": 654,
+    "ending_residue": 675,
+    "chain_identifier": "A",
+    "length": 22,
+    "broken_residues": [
+        "ATOM   4422  N   GLY A 665     -19.517  -8.179   0.914  1.00110.70           N  \n"
+    ],
+    "flag": 1
+},{
+    "id": 12,
+    "starting_residue": 589,
+    "ending_residue": 610,
+    "chain_identifier": "B",
+    "length": 22,
+    "broken_residues": [
+        "ATOM   9594  N   TRP B 590      30.190 -10.739  15.156  1.00117.98           N  \n",
+        "ATOM   9595  CA  TRP B 590      30.173 -11.172  13.764  1.00117.98           C  \n",
+        "ATOM   9596  C   TRP B 590      30.125 -10.011  12.778  1.00117.98           C  \n",
+        "ATOM   9597  O   TRP B 590      29.888 -10.240  11.588  1.00117.98           O  \n"
+    ],
+    "flag": 1
+},{
+    "id": 14,
+    "starting_residue": 654,
+    "ending_residue": 675,
+    "chain_identifier": "B",
+    "length": 22,
+    "broken_residues": [
+        "ATOM  10050  N   GLY B 665      19.343   8.577   0.703  1.00114.66           N  \n",
+        "ATOM  10051  CA  GLY B 665      20.297   8.075  -0.270  1.00114.66           C  \n",
+        "ATOM  10052  C   GLY B 665      19.896   6.776  -0.930  1.00114.66           C  \n",
+        "ATOM  10053  O   GLY B 665      20.551   6.352  -1.887  1.00114.66           O  \n"
+    ],
+    "flag": 1
+},{}]

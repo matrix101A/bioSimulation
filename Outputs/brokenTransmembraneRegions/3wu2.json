@@ -1,0 +1,395 @@
+[{
+    "id": 3,
+    "starting_residue": 26,
+    "ending_residue": 53,
+    "chain_identifier": "A",
+    "length": 28,
+    "broken_residues": [
+        "ATOM    135  N   ARG A  27      24.853 -19.490 -14.834  1.00 29.22           N  \n",
+        "ATOM    136  CA  ARG A  27      24.352 -18.150 -14.535  1.00 26.47           C  \n",
+        "ATOM    137  C   ARG A  27      25.230 -17.455 -13.432  1.00 25.85           C  \n",
+        "ATOM    138  O   ARG A  27      25.492 -16.216 -13.478  1.00 28.76           O  \n",
+        "ATOM    146  N   LEU A  28      25.555 -18.222 -12.407  1.00 25.02           N  \n",
+        "ATOM    147  CA  LEU A  28      26.583 -17.882 -11.436  1.00 27.61           C  \n",
+        "ATOM    148  C   LEU A  28      27.722 -18.865 -11.633  1.00 29.78           C  \n",
+        "ATOM    149  O   LEU A  28      27.509 -20.097 -11.602  1.00 27.58           O  \n",
+        "ATOM    154  N   TYR A  29      28.929 -18.338 -11.790  1.00 27.83           N  \n",
+        "ATOM    155  CA  TYR A  29      30.077 -19.188 -11.924  1.00 27.20           C  \n",
+        "ATOM    156  C   TYR A  29      30.298 -20.051 -10.693  1.00 26.76           C  \n",
+        "ATOM    157  O   TYR A  29      30.255 -19.568  -9.548  1.00 25.35           O  \n"
+    ],
+    "flag": 1
+},{
+    "id": 10,
+    "starting_residue": 139,
+    "ending_residue": 161,
+    "chain_identifier": "A",
+    "length": 23,
+    "broken_residues": [
+        "ATOM   1034  N   PRO A 141      43.887 -10.234 -14.567  1.00 23.02           N  \n",
+        "ATOM   1035  CA  PRO A 141      43.535 -11.091 -13.438  1.00 23.22           C  \n",
+        "ATOM   1036  C   PRO A 141      43.375 -10.386 -12.103  1.00 25.18           C  \n",
+        "ATOM   1037  O   PRO A 141      43.124 -11.046 -11.124  1.00 24.24           O  \n",
+        "ATOM   1177  N   ILE A 160      43.253 -12.079  13.055  1.00 23.04           N  \n"
+    ],
+    "flag": 1
+},{
+    "id": 18,
+    "starting_residue": 254,
+    "ending_residue": 265,
+    "chain_identifier": "A",
+    "length": 12,
+    "broken_residues": [
+        "ATOM   1953  N   PHE A 260      44.844  22.733 -12.480  1.00 35.99           N  \n"
+    ],
+    "flag": 1
+},{
+    "id": 32,
+    "starting_residue": 135,
+    "ending_residue": 159,
+    "chain_identifier": "B",
+    "length": 25,
+    "broken_residues": [
+        "ATOM   3864  N   HIS B 157      -2.595  45.461  11.943  1.00 25.14           N  \n",
+        "ATOM   3865  CA  HIS B 157      -2.719  44.304  12.860  1.00 24.67           C  \n",
+        "ATOM   3866  C   HIS B 157      -1.806  44.455  14.036  1.00 25.34           C  \n",
+        "ATOM   3867  O   HIS B 157      -2.280  44.376  15.231  1.00 28.34           O  \n"
+    ],
+    "flag": 1
+},{
+    "id": 62,
+    "starting_residue": 233,
+    "ending_residue": 289,
+    "chain_identifier": "C",
+    "length": 57,
+    "broken_residues": [
+        "ATOM   8421  N   THR C 255      63.051 -35.455 -13.697  1.00 42.60           N  \n",
+        "ATOM   8422  CA  THR C 255      62.413 -34.366 -14.389  1.00 43.39           C  \n",
+        "ATOM   8423  C   THR C 255      60.931 -34.423 -13.955  1.00 42.09           C  \n",
+        "ATOM   8424  O   THR C 255      60.450 -35.487 -13.538  1.00 40.11           O  \n",
+        "ATOM   8428  N   PRO C 256      60.212 -33.291 -13.982  1.00 40.25           N  \n",
+        "ATOM   8429  CA  PRO C 256      58.867 -33.380 -13.374  1.00 39.89           C  \n",
+        "ATOM   8430  C   PRO C 256      57.902 -34.352 -14.089  1.00 37.83           C  \n",
+        "ATOM   8431  O   PRO C 256      57.824 -34.374 -15.320  1.00 40.37           O  \n",
+        "ATOM   8507  N   ILE C 265      52.005 -23.766 -14.126  1.00 32.54           N  \n",
+        "ATOM   8508  CA  ILE C 265      52.484 -22.897 -15.170  1.00 31.26           C  \n",
+        "ATOM   8509  C   ILE C 265      54.021 -22.924 -15.086  1.00 39.19           C  \n",
+        "ATOM   8510  O   ILE C 265      54.583 -22.825 -13.974  1.00 36.43           O  \n"
+    ],
+    "flag": 1
+},{
+    "id": 69,
+    "starting_residue": 26,
+    "ending_residue": 55,
+    "chain_identifier": "D",
+    "length": 30,
+    "broken_residues": [
+        "ATOM  10296  N   VAL D  28      46.911  28.834 -14.464  1.00 36.98           N  \n",
+        "ATOM  10297  CA  VAL D  28      45.883  28.816 -13.443  1.00 37.43           C  \n",
+        "ATOM  10298  C   VAL D  28      44.753  29.735 -13.875  1.00 36.47           C  \n",
+        "ATOM  10299  O   VAL D  28      44.870  30.980 -13.807  1.00 36.40           O  \n",
+        "ATOM  10303  N   PHE D  29      43.633  29.138 -14.264  1.00 31.26           N  \n",
+        "ATOM  10304  CA  PHE D  29      42.463  29.905 -14.626  1.00 32.71           C  \n",
+        "ATOM  10305  C   PHE D  29      42.027  30.811 -13.456  1.00 31.17           C  \n",
+        "ATOM  10306  O   PHE D  29      42.175  30.409 -12.300  1.00 31.70           O  \n"
+    ],
+    "flag": 1
+},{
+    "id": 78,
+    "starting_residue": 139,
+    "ending_residue": 162,
+    "chain_identifier": "D",
+    "length": 24,
+    "broken_residues": [
+        "ATOM  11305  N   ILE D 159      26.922  25.337  11.708  1.00 22.50           N  \n"
+    ],
+    "flag": 1
+},{
+    "id": 85,
+    "starting_residue": 249,
+    "ending_residue": 261,
+    "chain_identifier": "D",
+    "length": 13,
+    "broken_residues": [
+        "ATOM  12086  N   GLY D 258      26.237 -11.736  -9.236  1.00 24.36           N  \n",
+        "ATOM  12087  CA  GLY D 258      24.784 -11.866  -9.471  1.00 22.30           C  \n",
+        "ATOM  12088  C   GLY D 258      24.189 -10.770 -10.287  1.00 26.12           C  \n",
+        "ATOM  12089  O   GLY D 258      23.304 -11.012 -11.094  1.00 27.96           O  \n",
+        "ATOM  12090  N   ILE D 259      24.643  -9.536 -10.063  1.00 21.68           N  \n",
+        "ATOM  12091  CA  ILE D 259      24.258  -8.491 -10.889  1.00 24.93           C  \n",
+        "ATOM  12092  C   ILE D 259      25.506  -7.740 -11.327  1.00 25.66           C  \n",
+        "ATOM  12093  O   ILE D 259      26.598  -7.901 -10.749  1.00 27.47           O  \n",
+        "ATOM  12098  N   ALA D 260      25.297  -6.844 -12.277  1.00 25.70           N  \n",
+        "ATOM  12099  CA  ALA D 260      26.385  -6.110 -12.886  1.00 26.41           C  \n",
+        "ATOM  12100  C   ALA D 260      25.803  -4.877 -13.519  1.00 23.63           C  \n",
+        "ATOM  12101  O   ALA D 260      24.656  -4.919 -13.962  1.00 23.35           O  \n"
+    ],
+    "flag": 1
+},{
+    "id": 88,
+    "starting_residue": 13,
+    "ending_residue": 40,
+    "chain_identifier": "E",
+    "length": 28,
+    "broken_residues": [
+        "ATOM  12974  N   VAL E  17      70.606  28.430 -15.594  1.00 50.11           N  \n"
+    ],
+    "flag": 1
+},{
+    "id": 91,
+    "starting_residue": 15,
+    "ending_residue": 42,
+    "chain_identifier": "F",
+    "length": 28,
+    "broken_residues": [
+        "ATOM  13565  N   PHE F  16      56.814  37.834 -15.298  1.00 55.27           N  \n",
+        "ATOM  13566  CA  PHE F  16      55.805  38.109 -14.309  1.00 57.40           C  \n",
+        "ATOM  13567  C   PHE F  16      54.441  37.827 -14.934  1.00 59.54           C  \n",
+        "ATOM  13568  O   PHE F  16      53.985  38.548 -15.801  1.00 65.13           O  \n"
+    ],
+    "flag": 1
+},{
+    "id": 100,
+    "starting_residue": 17,
+    "ending_residue": 42,
+    "chain_identifier": "K",
+    "length": 26,
+    "broken_residues": [
+        "ATOM  14978  N   PRO K  26      73.811   1.054   8.924  1.00 33.66           N  \n",
+        "ATOM  14979  CA  PRO K  26      72.621   0.198   8.641  1.00 34.95           C  \n",
+        "ATOM  14980  C   PRO K  26      71.606   0.761   7.627  1.00 34.85           C  \n",
+        "ATOM  14981  O   PRO K  26      70.850   0.005   6.994  1.00 39.33           O  \n"
+    ],
+    "flag": 1
+},{
+    "id": 102,
+    "starting_residue": 10,
+    "ending_residue": 36,
+    "chain_identifier": "L",
+    "length": 27,
+    "broken_residues": [
+        "ATOM  15228  N   LEU L  12       9.061   3.409 -15.373  1.00 23.66           N  \n",
+        "ATOM  15229  CA  LEU L  12      10.001   2.943 -14.367  1.00 22.36           C  \n",
+        "ATOM  15230  C   LEU L  12      10.408   1.551 -14.872  1.00 22.08           C  \n",
+        "ATOM  15231  O   LEU L  12       9.575   0.641 -14.925  1.00 25.70           O  \n"
+    ],
+    "flag": 1
+},{
+    "id": 104,
+    "starting_residue": 2,
+    "ending_residue": 25,
+    "chain_identifier": "T",
+    "length": 24,
+    "broken_residues": [
+        "ATOM  17787  N   ARG T  24      16.198 -10.685 -13.534  1.00 26.92           N  \n",
+        "ATOM  17788  CA  ARG T  24      16.636  -9.358 -13.986  1.00 27.05           C  \n",
+        "ATOM  17789  C   ARG T  24      16.178  -9.138 -15.408  1.00 32.30           C  \n",
+        "ATOM  17790  O   ARG T  24      15.960 -10.104 -16.143  1.00 26.81           O  \n"
+    ],
+    "flag": 1
+},{
+    "id": 105,
+    "starting_residue": 20,
+    "ending_residue": 39,
+    "chain_identifier": "Y",
+    "length": 20,
+    "broken_residues": [
+        "ATOM  19684  N   ALA Y  20      80.711  14.769  12.331  1.00 74.53           N  \n",
+        "ATOM  19685  CA  ALA Y  20      80.872  13.457  13.014  1.00 67.41           C  \n",
+        "ATOM  19686  C   ALA Y  20      80.082  12.426  12.211  1.00 69.01           C  \n",
+        "ATOM  19687  O   ALA Y  20      80.532  11.977  11.152  1.00 65.29           O  \n"
+    ],
+    "flag": 1
+},{
+    "id": 115,
+    "starting_residue": 26,
+    "ending_residue": 53,
+    "chain_identifier": "a",
+    "length": 28,
+    "broken_residues": [
+        "ATOM  20759  N   ARG a  27     -24.586  19.697 -15.178  1.00 27.81           N  \n",
+        "ATOM  20760  CA  ARG a  27     -24.093  18.334 -14.857  1.00 27.82           C  \n",
+        "ATOM  20761  C   ARG a  27     -24.963  17.663 -13.771  1.00 26.29           C  \n",
+        "ATOM  20762  O   ARG a  27     -25.313  16.440 -13.846  1.00 24.45           O  \n",
+        "ATOM  20770  N   LEU a  28     -25.324  18.457 -12.766  1.00 24.17           N  \n",
+        "ATOM  20771  CA  LEU a  28     -26.365  18.079 -11.824  1.00 25.99           C  \n",
+        "ATOM  20772  C   LEU a  28     -27.519  19.053 -12.022  1.00 28.51           C  \n",
+        "ATOM  20773  O   LEU a  28     -27.296  20.271 -12.032  1.00 29.37           O  \n",
+        "ATOM  20778  N   TYR a  29     -28.741  18.539 -12.113  1.00 24.75           N  \n",
+        "ATOM  20779  CA  TYR a  29     -29.874  19.397 -12.383  1.00 28.23           C  \n",
+        "ATOM  20780  C   TYR a  29     -30.115  20.238 -11.128  1.00 26.62           C  \n",
+        "ATOM  20781  O   TYR a  29     -29.994  19.695  -9.976  1.00 27.21           O  \n"
+    ],
+    "flag": 1
+},{
+    "id": 122,
+    "starting_residue": 139,
+    "ending_residue": 163,
+    "chain_identifier": "a",
+    "length": 25,
+    "broken_residues": [
+        "ATOM  21658  N   PRO a 141     -43.656  10.538 -15.426  1.00 28.17           N  \n",
+        "ATOM  21659  CA  PRO a 141     -43.385  11.388 -14.248  1.00 27.40           C  \n",
+        "ATOM  21660  C   PRO a 141     -43.185  10.659 -12.910  1.00 28.08           C  \n",
+        "ATOM  21661  O   PRO a 141     -42.931  11.332 -11.889  1.00 29.01           O  \n",
+        "ATOM  21801  N   ILE a 160     -43.450  11.750  12.291  1.00 21.12           N  \n"
+    ],
+    "flag": 1
+},{
+    "id": 128,
+    "starting_residue": 192,
+    "ending_residue": 218,
+    "chain_identifier": "a",
+    "length": 27,
+    "broken_residues": [
+        "ATOM  22069  N   HIS a 195     -47.718  -6.637  13.757  1.00 20.58           N  \n"
+    ],
+    "flag": 1
+},{
+    "id": 146,
+    "starting_residue": 135,
+    "ending_residue": 164,
+    "chain_identifier": "b",
+    "length": 30,
+    "broken_residues": [
+        "ATOM  24470  N   HIS b 157       2.405 -45.764  11.274  1.00 32.21           N  \n",
+        "ATOM  24471  CA  HIS b 157       2.515 -44.624  12.182  1.00 28.12           C  \n",
+        "ATOM  24472  C   HIS b 157       1.575 -44.759  13.317  1.00 26.17           C  \n",
+        "ATOM  24473  O   HIS b 157       1.987 -44.770  14.472  1.00 28.63           O  \n",
+        "ATOM  24499  N   LEU b 161       4.012 -49.514  14.978  1.00 36.08           N  \n",
+        "ATOM  24500  CA  LEU b 161       4.875 -50.490  14.273  1.00 36.76           C  \n",
+        "ATOM  24501  C   LEU b 161       6.078 -49.807  13.623  1.00 40.63           C  \n",
+        "ATOM  24502  O   LEU b 161       7.209 -50.345  13.573  1.00 35.62           O  \n",
+        "ATOM  24507  N   PHE b 162       5.854 -48.614  13.085  1.00 34.86           N  \n",
+        "ATOM  24508  CA  PHE b 162       6.984 -47.794  12.651  1.00 34.05           C  \n",
+        "ATOM  24509  C   PHE b 162       6.547 -46.309  12.666  1.00 33.18           C  \n",
+        "ATOM  24510  O   PHE b 162       6.162 -45.786  11.643  1.00 33.18           O  \n"
+    ],
+    "flag": 1
+},{
+    "id": 172,
+    "starting_residue": 203,
+    "ending_residue": 218,
+    "chain_identifier": "c",
+    "length": 16,
+    "broken_residues": [
+        "ATOM  28719  N   LYS c 215     -50.018  30.978  13.765  1.00 36.47           N  \n",
+        "ATOM  28720  CA  LYS c 215     -49.185  30.445  14.816  1.00 37.09           C  \n",
+        "ATOM  28721  C   LYS c 215     -48.466  29.146  14.481  1.00 36.93           C  \n",
+        "ATOM  28722  O   LYS c 215     -48.915  28.340  13.657  1.00 33.88           O  \n",
+        "ATOM  28728  N   SER c 216     -47.294  28.996  15.086  1.00 32.89           N  \n",
+        "ATOM  28729  CA  SER c 216     -46.426  27.870  14.786  1.00 32.88           C  \n",
+        "ATOM  28730  C   SER c 216     -47.147  26.549  15.043  1.00 28.69           C  \n",
+        "ATOM  28731  O   SER c 216     -47.965  26.470  15.968  1.00 30.87           O  \n",
+        "ATOM  28734  N   PRO c 217     -46.857  25.492  14.229  1.00 28.71           N  \n",
+        "ATOM  28735  CA  PRO c 217     -47.485  24.232  14.506  1.00 25.46           C  \n",
+        "ATOM  28736  C   PRO c 217     -46.751  23.396  15.602  1.00 23.66           C  \n",
+        "ATOM  28737  O   PRO c 217     -47.163  22.276  15.888  1.00 27.18           O  \n"
+    ],
+    "flag": 1
+},{
+    "id": 174,
+    "starting_residue": 233,
+    "ending_residue": 290,
+    "chain_identifier": "c",
+    "length": 58,
+    "broken_residues": [
+        "ATOM  29020  N   THR c 255     -62.710  35.936 -14.388  1.00 38.19           N  \n",
+        "ATOM  29021  CA  THR c 255     -62.010  34.814 -15.037  1.00 43.26           C  \n",
+        "ATOM  29022  C   THR c 255     -60.537  34.887 -14.627  1.00 39.74           C  \n",
+        "ATOM  29023  O   THR c 255     -60.071  35.944 -14.204  1.00 39.50           O  \n",
+        "ATOM  29027  N   PRO c 256     -59.811  33.748 -14.683  1.00 42.19           N  \n",
+        "ATOM  29028  CA  PRO c 256     -58.444  33.788 -14.146  1.00 41.22           C  \n",
+        "ATOM  29029  C   PRO c 256     -57.504  34.805 -14.808  1.00 46.07           C  \n",
+        "ATOM  29030  O   PRO c 256     -57.418  34.885 -16.053  1.00 46.86           O  \n",
+        "ATOM  29114  N   ILE c 265     -51.740  24.140 -14.857  1.00 31.22           N  \n",
+        "ATOM  29115  CA  ILE c 265     -52.144  23.246 -15.913  1.00 32.16           C  \n",
+        "ATOM  29116  C   ILE c 265     -53.674  23.201 -15.911  1.00 36.17           C  \n",
+        "ATOM  29117  O   ILE c 265     -54.307  23.107 -14.846  1.00 33.87           O  \n"
+    ],
+    "flag": 1
+},{
+    "id": 181,
+    "starting_residue": 27,
+    "ending_residue": 55,
+    "chain_identifier": "d",
+    "length": 29,
+    "broken_residues": [
+        "ATOM  30909  N   PHE d  29     -43.097 -29.080 -15.814  1.00 34.31           N  \n",
+        "ATOM  30910  CA  PHE d  29     -41.874 -29.779 -16.154  1.00 33.43           C  \n",
+        "ATOM  30911  C   PHE d  29     -41.459 -30.671 -14.996  1.00 32.79           C  \n",
+        "ATOM  30912  O   PHE d  29     -41.588 -30.270 -13.839  1.00 33.19           O  \n"
+    ],
+    "flag": 1
+},{
+    "id": 188,
+    "starting_residue": 140,
+    "ending_residue": 162,
+    "chain_identifier": "d",
+    "length": 23,
+    "broken_residues": [
+        "ATOM  31911  N   ILE d 159     -27.048 -25.543  10.607  1.00 22.07           N  \n"
+    ],
+    "flag": 1
+},{
+    "id": 193,
+    "starting_residue": 191,
+    "ending_residue": 220,
+    "chain_identifier": "d",
+    "length": 30,
+    "broken_residues": [
+        "ATOM  32207  N   ASN d 194     -23.936  -7.243  14.769  1.00 19.11           N  \n"
+    ],
+    "flag": 1
+},{
+    "id": 213,
+    "starting_residue": 14,
+    "ending_residue": 42,
+    "chain_identifier": "k",
+    "length": 29,
+    "broken_residues": [
+        "ATOM  35529  N   PHE k  18     -85.934  -4.709  13.453  1.00 52.11           N  \n",
+        "ATOM  35578  N   VAL k  24     -76.190  -5.082   9.275  1.00 45.82           N  \n",
+        "ATOM  35600  N   VAL k  27     -71.945  -2.319   5.859  1.00 34.30           N  \n"
+    ],
+    "flag": 1
+},{
+    "id": 215,
+    "starting_residue": 10,
+    "ending_residue": 36,
+    "chain_identifier": "l",
+    "length": 27,
+    "broken_residues": [
+        "ATOM  35841  N   LEU l  12      -8.830  -3.148 -15.770  1.00 25.31           N  \n",
+        "ATOM  35842  CA  LEU l  12      -9.745  -2.729 -14.740  1.00 25.46           C  \n",
+        "ATOM  35843  C   LEU l  12     -10.096  -1.343 -15.208  1.00 23.26           C  \n",
+        "ATOM  35844  O   LEU l  12      -9.218  -0.491 -15.246  1.00 22.73           O  \n"
+    ],
+    "flag": 1
+},{
+    "id": 218,
+    "starting_residue": 19,
+    "ending_residue": 39,
+    "chain_identifier": "y",
+    "length": 21,
+    "broken_residues": [
+        "ATOM  40280  N   ILE y  19     -79.025 -16.110  12.385  1.00 79.32           N  \n",
+        "ATOM  40281  CA  ILE y  19     -79.777 -16.614  11.199  1.00 77.88           C  \n",
+        "ATOM  40282  C   ILE y  19     -80.407 -15.426  10.481  1.00 80.73           C  \n",
+        "ATOM  40283  O   ILE y  19     -80.293 -15.290   9.248  1.00 75.75           O  \n"
+    ],
+    "flag": 1
+},{
+    "id": 221,
+    "starting_residue": 2,
+    "ending_residue": 27,
+    "chain_identifier": "z",
+    "length": 26,
+    "broken_residues": [
+        "ATOM  40763  N   ILE z   3     -98.557   0.076  15.268  1.00 93.19           N  \n",
+        "ATOM  40764  CA  ILE z   3     -97.860  -1.203  14.980  1.00 92.79           C  \n",
+        "ATOM  40765  C   ILE z   3     -98.246  -1.909  13.640  1.00 95.61           C  \n",
+        "ATOM  40766  O   ILE z   3     -97.716  -2.983  13.298  1.00 90.36           O  \n"
+    ],
+    "flag": 1
+},{}]
