@@ -1,0 +1,111 @@
+[{
+    "id": 2,
+    "starting_residue": 45,
+    "ending_residue": 72,
+    "chain_identifier": "A",
+    "length": 28,
+    "broken_residues": [
+        "ATOM    404  N   VAL A  71      16.810 -17.520  12.390  1.00134.85           N  \n",
+        "ATOM    405  CA  VAL A  71      17.894 -16.584  12.674  1.00144.38           C  \n",
+        "ATOM    406  C   VAL A  71      17.495 -15.581  13.758  1.00148.98           C  \n",
+        "ATOM    407  O   VAL A  71      17.404 -14.371  13.512  1.00141.43           O  \n"
+    ],
+    "flag": 1
+},{
+    "id": 4,
+    "starting_residue": 83,
+    "ending_residue": 99,
+    "chain_identifier": "A",
+    "length": 17,
+    "broken_residues": [
+        "ATOM    594  N   THR A  96       2.034  -5.134   4.744  1.00 84.98           N  \n",
+        "ATOM    595  CA  THR A  96       2.182  -3.807   5.359  1.00 87.35           C  \n",
+        "ATOM    596  C   THR A  96       0.973  -3.413   6.218  1.00 83.00           C  \n",
+        "ATOM    597  O   THR A  96       0.467  -2.292   6.163  1.00 70.90           O  \n",
+        "ATOM    601  N   ILE A  97       0.525  -4.349   7.058  1.00 85.23           N  \n",
+        "ATOM    602  CA  ILE A  97      -0.566  -4.038   7.982  1.00 83.99           C  \n",
+        "ATOM    603  C   ILE A  97      -0.031  -3.395   9.255  1.00 94.64           C  \n",
+        "ATOM    604  O   ILE A  97      -0.526  -2.351   9.691  1.00 88.22           O  \n",
+        "ATOM    609  N   GLY A  98       0.977  -4.008   9.865  1.00 94.55           N  \n",
+        "ATOM    610  CA  GLY A  98       1.612  -3.449  11.038  1.00104.46           C  \n",
+        "ATOM    611  C   GLY A  98       0.652  -3.146  12.170  1.00104.39           C  \n",
+        "ATOM    612  O   GLY A  98       0.452  -1.980  12.529  1.00100.89           O  \n"
+    ],
+    "flag": 1
+},{
+    "id": 11,
+    "starting_residue": 82,
+    "ending_residue": 99,
+    "chain_identifier": "B",
+    "length": 18,
+    "broken_residues": [
+        "ATOM   2796  N   THR B  96       4.957   1.980   4.903  1.00 76.77           N  \n",
+        "ATOM   2797  CA  THR B  96       3.668   2.213   5.559  1.00 75.23           C  \n",
+        "ATOM   2798  C   THR B  96       3.267   1.056   6.470  1.00 84.94           C  \n",
+        "ATOM   2799  O   THR B  96       2.083   0.741   6.605  1.00 80.05           O  \n",
+        "ATOM   2803  N   ILE B  97       4.247   0.407   7.102  1.00 90.21           N  \n",
+        "ATOM   2804  CA  ILE B  97       3.934  -0.653   8.056  1.00 82.94           C  \n",
+        "ATOM   2805  C   ILE B  97       3.370  -0.054   9.339  1.00106.69           C  \n",
+        "ATOM   2806  O   ILE B  97       2.326  -0.489   9.841  1.00102.79           O  \n",
+        "ATOM   2811  N   GLY B  98       4.045   0.962   9.875  1.00 86.91           N  \n",
+        "ATOM   2812  CA  GLY B  98       3.574   1.670  11.048  1.00 99.17           C  \n",
+        "ATOM   2813  C   GLY B  98       3.278   0.741  12.204  1.00104.24           C  \n",
+        "ATOM   2814  O   GLY B  98       2.129   0.642  12.647  1.00111.57           O  \n"
+    ],
+    "flag": 1
+},{
+    "id": 16,
+    "starting_residue": 45,
+    "ending_residue": 72,
+    "chain_identifier": "C",
+    "length": 28,
+    "broken_residues": [
+        "ATOM    404  N   VAL C  71     -16.805  17.518  12.398  1.00134.85           N  \n",
+        "ATOM    405  CA  VAL C  71     -17.889  16.582  12.683  1.00144.38           C  \n",
+        "ATOM    406  C   VAL C  71     -17.489  15.579  13.766  1.00148.98           C  \n",
+        "ATOM    407  O   VAL C  71     -17.398  14.369  13.520  1.00141.43           O  \n"
+    ],
+    "flag": 1
+},{
+    "id": 18,
+    "starting_residue": 83,
+    "ending_residue": 99,
+    "chain_identifier": "C",
+    "length": 17,
+    "broken_residues": [
+        "ATOM    594  N   THR C  96      -2.032   5.133   4.745  1.00 84.98           N  \n",
+        "ATOM    595  CA  THR C  96      -2.179   3.806   5.360  1.00 87.35           C  \n",
+        "ATOM    596  C   THR C  96      -0.970   3.412   6.219  1.00 83.00           C  \n",
+        "ATOM    597  O   THR C  96      -0.464   2.291   6.163  1.00 70.90           O  \n",
+        "ATOM    601  N   ILE C  97      -0.522   4.348   7.059  1.00 85.23           N  \n",
+        "ATOM    602  CA  ILE C  97       0.570   4.037   7.982  1.00 83.99           C  \n",
+        "ATOM    603  C   ILE C  97       0.035   3.394   9.255  1.00 94.64           C  \n",
+        "ATOM    604  O   ILE C  97       0.530   2.349   9.691  1.00 88.22           O  \n",
+        "ATOM    609  N   GLY C  98      -0.972   4.007   9.866  1.00 94.55           N  \n",
+        "ATOM    610  CA  GLY C  98      -1.607   3.448  11.039  1.00104.46           C  \n",
+        "ATOM    611  C   GLY C  98      -0.647   3.144  12.170  1.00104.39           C  \n",
+        "ATOM    612  O   GLY C  98      -0.447   1.979  12.529  1.00100.89           O  \n"
+    ],
+    "flag": 1
+},{
+    "id": 25,
+    "starting_residue": 82,
+    "ending_residue": 99,
+    "chain_identifier": "D",
+    "length": 18,
+    "broken_residues": [
+        "ATOM   2796  N   THR D  96      -4.954  -1.981   4.905  1.00 76.77           N  \n",
+        "ATOM   2797  CA  THR D  96      -3.664  -2.214   5.560  1.00 75.23           C  \n",
+        "ATOM   2798  C   THR D  96      -3.264  -1.057   6.471  1.00 84.94           C  \n",
+        "ATOM   2799  O   THR D  96      -2.079  -0.742   6.606  1.00 80.05           O  \n",
+        "ATOM   2803  N   ILE D  97      -4.244  -0.408   7.104  1.00 90.21           N  \n",
+        "ATOM   2804  CA  ILE D  97      -3.930   0.652   8.058  1.00 82.94           C  \n",
+        "ATOM   2805  C   ILE D  97      -3.365   0.053   9.340  1.00106.69           C  \n",
+        "ATOM   2806  O   ILE D  97      -2.322   0.488   9.842  1.00102.79           O  \n",
+        "ATOM   2811  N   GLY D  98      -4.040  -0.963   9.877  1.00 86.91           N  \n",
+        "ATOM   2812  CA  GLY D  98      -3.568  -1.672  11.049  1.00 99.17           C  \n",
+        "ATOM   2813  C   GLY D  98      -3.272  -0.743  12.205  1.00104.24           C  \n",
+        "ATOM   2814  O   GLY D  98      -2.124  -0.644  12.648  1.00111.57           O  \n"
+    ],
+    "flag": 1
+},{}]
